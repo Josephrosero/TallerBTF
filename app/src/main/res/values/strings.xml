@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TallerBTF</string>
+    <string name="str_1">10:49</string>
+    <string name="str_2">Sabado</string>
+    <string name="txt_1">2</string>
+    <string name="txt_2">Llamadas</string>
+    <string name="txt_3">4</string>
+    <string name="txt_4">Mensajes</string>
+    <string name="txt_5">48</string>
+    <string name="txt_6">Notificaciones</string>
+    <string name="str_3">Estado de la bateria : 91%</string>
+    <string name="str_fe">29 de Agosto 2017</string>
+</resources>
